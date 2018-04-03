@@ -1,0 +1,13 @@
+This code was written by Daniel B Cristofani
+http://www.hevanet.com/cristofd/brainfuck/
+
+>++++++++++>+>+[
+    [+++++[>++++++++<-]>.<++++++[>--------<-]+<<<]>.>>[
+        [-]<[>+<-]>>[<<+>+>-]<[>+<-[>+<-[>+<-[>+<-[>+<-[>+<-
+            [>+<-[>+<-[>+<-[>[-]>+>+<<<-[>+<-]]]]]]]]]]]+>>>
+    ]<<<
+]
+
+This program doesn't terminate; you will have to kill it.
+Daniel B Cristofani (cristofdathevanetdotcom)
+http://www.hevanet.com/cristofd/brainfuck/
